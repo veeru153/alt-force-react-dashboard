@@ -5,18 +5,18 @@
     "main.js.map": "/static/js/main.a6800b3c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5860467b.js",
     "runtime-main.js.map": "/static/js/runtime-main.5860467b.js.map",
-    "static/js/2.8264c998.chunk.js": "/static/js/2.8264c998.chunk.js",
-    "static/js/2.8264c998.chunk.js.map": "/static/js/2.8264c998.chunk.js.map",
+    "static/js/2.ad95b871.chunk.js": "/static/js/2.ad95b871.chunk.js",
+    "static/js/2.ad95b871.chunk.js.map": "/static/js/2.ad95b871.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9b0d370b460f324712d327cec25389ae.js": "/precache-manifest.9b0d370b460f324712d327cec25389ae.js",
+    "precache-manifest.72cdccb0cbd87ef2004a6d913a4fa4cd.js": "/precache-manifest.72cdccb0cbd87ef2004a6d913a4fa4cd.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.6b60c1ef.chunk.css.map": "/static/css/main.6b60c1ef.chunk.css.map",
-    "static/js/2.8264c998.chunk.js.LICENSE.txt": "/static/js/2.8264c998.chunk.js.LICENSE.txt",
+    "static/js/2.ad95b871.chunk.js.LICENSE.txt": "/static/js/2.ad95b871.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/Roboto-VariableFont.6801b1d4.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.5860467b.js",
-    "static/js/2.8264c998.chunk.js",
+    "static/js/2.ad95b871.chunk.js",
     "static/css/main.6b60c1ef.chunk.css",
     "static/js/main.a6800b3c.chunk.js"
   ]
