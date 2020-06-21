@@ -1,0 +1,9 @@
+@font-face {
+  font-family: Roboto;
+  src: url(./fonts/Roboto-VariableFont.ttf);
+}
+
+.App {
+  text-align: center;
+  font-family: Roboto;
+}
