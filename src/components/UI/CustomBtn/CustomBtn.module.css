@@ -1,0 +1,30 @@
+.btn {
+    all: unset;
+    /* background: #25CEDE; */
+    box-shadow: 11.9786px 11.9786px 29.9465px rgba(136, 160, 183, 0.3), -11.9786px -11.9786px 29.9465px rgba(255, 255, 255, 0.7);
+    border-radius: 23.9572px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 75px;
+}
+
+.btnText {
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 1);
+    font-family: Roboto;
+    padding: 14px 26px;
+}
+
+@media only screen and (max-width: 992px) {
+    .btnText {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .btnText {
+        padding: 12px 22px;
+    }
+}

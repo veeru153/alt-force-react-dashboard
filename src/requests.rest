@@ -1,0 +1,1 @@
+GET http://alt-force-hack-jaipur.herokuapp.com/api/hospital/?format=json
